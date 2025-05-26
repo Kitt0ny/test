@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Я удаленный и локальный репозиторий.");
         System.out.println("24.05.2025");
 
-        System.out.println("Новая функция");
+        System.out.println("Новая функция!");
+
     }
 }
